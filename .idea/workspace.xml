@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="befc5f34-2f7c-4415-b72b-be95adf342dd" name="Changes" comment="" />
+    <list default="true" id="befc5f34-2f7c-4415-b72b-be95adf342dd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Produto.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,9 +31,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "produto",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/yasminrodrigues-ieg/OneDrive - Instituto Germinare/Área de Trabalho/1°D/Rec/POO/gitColaborador1/POO_prat1grp_tD",
+    "last_opened_file_path": "C:/Users/yasminrodrigues-ieg/OneDrive - Instituto Germinare/Área de Trabalho/1°D/Rec/POO/gitColaborador2/POO_prat1grp_tD",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -53,6 +55,7 @@
       <updated>1732840716609</updated>
       <workItem from="1732840717547" duration="68000" />
       <workItem from="1732841224749" duration="44000" />
+      <workItem from="1732887821205" duration="53000" />
     </task>
     <servers />
   </component>
